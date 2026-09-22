@@ -1,5 +1,7 @@
 # De-Bullshitifier
 
+For the prompt-design boundary and constraints, see [DESIGN.md](DESIGN.md).
+
 De-Bullshitifier translates institutional language into ordinary English.
 
 ## Why?
