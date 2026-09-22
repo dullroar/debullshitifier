@@ -30,7 +30,3 @@ De-Bullshitifier is not a lie detector, fact database, political partisan, or li
 Copy the contents of [prompt.md](prompt.md) into the system-prompt field of your preferred LLM, then provide the document or passage to analyze. For web pages, include the URL when browsing is available so the analyst can identify the author, sponsor, publisher, date, audience, and supporting sources.
 
 The default response ends with a concise **Eyeroll verdict**: memorable enough to be useful, but not a substitute for the analysis.
-
-## Status
-
-This repository currently contains the system prompt and its rationale. The GitHub remote will be configured later.
