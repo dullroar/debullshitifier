@@ -1,6 +1,6 @@
 # De-Bullshitifier
 
-For the prompt-design boundary and constraints, see [DESIGN.md](DESIGN.md).
+For the prompt-design boundary and constraints, see [docs/design/](docs/design/README.md).
 
 De-Bullshitifier translates institutional language into ordinary English.
 
